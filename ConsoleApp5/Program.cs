@@ -40,6 +40,8 @@ namespace ConsoleApp5
             Console.WriteLine("\nPresione una tecla para salir...");
             Console.ReadKey();
 
+            int valor = 0;
+
         }
     }
 }
